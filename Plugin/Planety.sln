@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Planety", "Planety.csproj", "{378C8C6B-B77D-4859-BD26-92FD428DF3AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetyPatch", "..\PlanetyPatch\PlanetyPatch.csproj", "{12D1DB4F-1383-4F4E-A544-8457186E4632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378C8C6B-B77D-4859-BD26-92FD428DF3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378C8C6B-B77D-4859-BD26-92FD428DF3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378C8C6B-B77D-4859-BD26-92FD428DF3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378C8C6B-B77D-4859-BD26-92FD428DF3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D1DB4F-1383-4F4E-A544-8457186E4632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D1DB4F-1383-4F4E-A544-8457186E4632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D1DB4F-1383-4F4E-A544-8457186E4632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D1DB4F-1383-4F4E-A544-8457186E4632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF0DC736-AAA5-4DB4-8EED-DD50C93DBD51}
+	EndGlobalSection
+EndGlobal
